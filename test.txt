@@ -1,5 +1,5 @@
 Hello world
 
-Someting else
+Someting bar else
 
 GIT is awesome
